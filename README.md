@@ -3,7 +3,7 @@
 
 Project Overview
 
-This project analyzes bike rental patterns in Seoul to understand the factors influencing bike usage. The goal is to derive insights that can contribute to better urban planning and sustainable transportation solutions.
+This project analyzes bike rental patterns in Seoul to understand the factors influencing bike usage. The goal is to predict the number of bikes which are likely to be rented according to the influencing factors.
 
 
 Data Processing and Analysis
@@ -37,6 +37,11 @@ Performance Evaluation
 
 - The Random Forest model demonstrated high accuracy with an R² score of 0.9, indicating its strong predictive capabilities.
 - It also showed the lowest Mean Squared Error, highlighting its reliability in predictions.
+
+
+Prediction      
+
+- Thanks to the model, we obtain a prediction of the number of bikes that are likely to be rented by entering the data requested as input.
 
   
 HTML Interface
